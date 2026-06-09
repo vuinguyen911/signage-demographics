@@ -14,7 +14,7 @@
 
 **SignageEye** is a cloud-based AI demographic analytics platform for digital signage. Existing Android devices or signage hardware with cameras send face images to a cloud AI server for age/gender estimation. Results are stored for marketing analytics — **images are never retained**.
 
-Commercially deployed by **Avix Inc. (Japan)** across **~50 signage devices** for audience measurement and signage optimization.
+Commercially deployed by **ABC Inc. (Japan)** across **~50 signage devices** for audience measurement and signage optimization.
 
 ```
 Android Device / Signage Hardware (with camera)
@@ -193,7 +193,7 @@ Historical Analysis:
 - Built **analytics dashboard** with demographic visualizations
 - Engineered **traffic optimization** for 50 concurrent devices
 - Set up **server monitoring** with auto-restart and SNS/email alerting
-- Coordinated with **Avix Japan** for requirements and deployment (Japanese/English)
+- Coordinated with **ABC Japan** for requirements and deployment (Japanese/English)
 
 ---
 
@@ -228,7 +228,7 @@ SignageEye/
 
 ## 📄 License
 
-This is a **commercial product** deployed by Avix Inc. across Japan.  
+This is a **commercial product** deployed by ABC Inc. across Japan.  
 Source code is proprietary. This repository is a **portfolio reference** demonstrating architecture, privacy design, and engineering decisions.
 
 ---
